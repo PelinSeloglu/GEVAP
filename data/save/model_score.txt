@@ -1,0 +1,6 @@
+model_0, loss: 48.231934
+model_0, loss: 64.795044
+model_0, loss: 48.452309
+model_0, loss: 48.694698
+model_10, loss: 39.710670
+model_0, loss: 0.000000
